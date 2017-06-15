@@ -1,0 +1,7 @@
+#Thu Jun 15 16:05:13 GMT+08:00 2017
+base.0=F\:\\my\\Happy\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6aef03e29e10412e4a7ef74a581fdf911433ff7b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\my\\Happy\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_06bc8044c6327cefe24f95dcc8cf26a838be8a09\\classes.dex
+base.1=F\:\\my\\Happy\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_06bc8044c6327cefe24f95dcc8cf26a838be8a09
+file.0=F\:\\my\\Happy\\listSamples\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6aef03e29e10412e4a7ef74a581fdf911433ff7b\\classes.dex
